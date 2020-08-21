@@ -22,7 +22,7 @@ If you wanna make a NA Trigger here is the tutorial
 
 !WARNING¡ The NA triggers can crash your game so be careful
 
-Step 1) Select number 512 in group ID [Image]https://user-images.githubusercontent.com/40328573/90861009-74da0700-e361-11ea-8d38-a9a966abffab.png
+Step 1) Select number 512 in group ID ![Image]https://user-images.githubusercontent.com/40328573/90861009-74da0700-e361-11ea-8d38-a9a966abffab.png
 
 Step 2) Open cheat engine and attach it to GD [Image]https://user-images.githubusercontent.com/40328573/90861055-8ae7c780-e361-11ea-8487-f5606d1f4f85.png
 
