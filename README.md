@@ -8,12 +8,13 @@ Cheat engine
 
 Mega hack V5
 
-Creator Hacks V4
-
 # Paid tools
 
 Mega hack V6 (Maybe isnt necessary)
-Creator Hacks VI (
+
+Creator Hacks VI
+
+All the paid tools and Mega hack v5 are made by Absolute (https://absolllute.com/)
 
 # NA Triggers
 
