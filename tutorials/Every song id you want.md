@@ -1,6 +1,6 @@
 # Any song ID
 
-Step 1?) Open Mega Hack V5 with GD open at the same time
+Step 1) Open Mega Hack V5 with GD open at the same time
 
 <img src="https://user-images.githubusercontent.com/40328573/90950560-1d06d300-e429-11ea-9d2d-d8959f62f2ed.png" alt="step 1" width="512">
 
